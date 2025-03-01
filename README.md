@@ -28,6 +28,7 @@ Here's a walkthrough of implemented required features:
 
 <img src='Steam/public/demo.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
+![demo](https://github.com/user-attachments/assets/d470dee7-7658-40ac-b61a-08c2702669c8)
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with LICEcap
 
