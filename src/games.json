@@ -1,0 +1,86 @@
+[
+    {
+      "title": "Valorant",
+      "genre": "Action",
+      "price": "19.99$",
+      "link": "https://playvalorant.com/",
+      "img": "/public/images/valorant.jpg"
+    },
+    {
+      "title": "League of Legends",
+      "genre": "MOBA",
+      "price": "Free",
+      "link": "https://na.leagueoflegends.com/",
+      "img": "/public/images/league_of_legends.jpg"
+    },
+    {
+      "title": "Minecraft",
+      "genre": "Sandbox",
+      "price": "26.95$",
+      "link": "https://www.minecraft.net/",
+      "img": "/public/images/minecraft.jpg"
+    },
+    {
+      "title": "Among Us",
+      "genre": "Social Deduction",
+      "price": "4.99$",
+      "link": "https://www.innersloth.com/gameAmongUs.php",
+      "img": "/public/images/among_us.jpg"
+    },
+    {
+      "title": "Fortnite",
+      "genre": "Battle Royale",
+      "price": "Free",
+      "link": "https://www.epicgames.com/fortnite/en-US/home",
+      "img": "/public/images/fortnite.jpg"
+    },
+    {
+      "title": "Apex Legends",
+      "genre": "Battle Royale",
+      "price": "Free",
+      "link": "https://www.ea.com/games/apex-legends",
+      "img": "/public/images/apex_legends.jpg"
+    },
+    {
+      "title": "Call of Duty: Warzone",
+      "genre": "Battle Royale",
+      "price": "Free",
+      "link": "https://www.callofduty.com/warzone",
+      "img": "/public/images/warzone.jpg"
+    },
+    {
+      "title": "Overwatch",
+      "genre": "FPS",
+      "price": "19.99$",
+      "link": "https://playoverwatch.com/",
+      "img": "/public/images/overwatch.jpg"
+    },
+    {
+      "title": "Rocket League",
+      "genre": "Sports",
+      "price": "19.99$",
+      "link": "https://www.rocketleague.com/",
+      "img": "/public/images/rocket_league.jpg"
+    },
+    {
+      "title": "Cyberpunk 2077",
+      "genre": "RPG",
+      "price": "59.99$",
+      "link": "https://www.cyberpunk.net/",
+      "img": "/public/images/cyberpunk_2077.jpg"
+    },
+    {
+      "title": "The Witcher 3: Wild Hunt",
+      "genre": "RPG",
+      "price": "39.99$",
+      "link": "https://thewitcher.com/en/witcher3",
+      "img": "/public/images/witcher_3.jpg"
+    },
+    {
+      "title": "Hades",
+      "genre": "Roguelike",
+      "price": "24.99$",
+      "link": "https://www.supergiantgames.com/games/hades/",
+      "img": "/public/images/hades.jpg"
+    }
+  ]
